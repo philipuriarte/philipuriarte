@@ -1,9 +1,12 @@
+<img align="center" src="linkedin_bg_img.png">
+
 <h1 align="center">
   Hi, I'm Philip 👋
 </h1>
 
 <p align="center"> 
-  📚 A 3rd-year Computer Science Student at De La Salle University - Dasmariñas
+  A 3rd-year Computer Science Student at De La Salle University - Dasmariñas <br>
+  I'm aspring to become a Game/Application Developer
 </p>
 
 <p align='center'>
