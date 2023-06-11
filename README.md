@@ -6,7 +6,7 @@
 
 <p align="center"> 
   A 3rd-year Computer Science Student at De La Salle University - Dasmariñas <br>
-  I'm aspring to become a Game/Application Developer
+  and aspring to become a Game/Application Developer
 </p>
 
 <p align='center'>
