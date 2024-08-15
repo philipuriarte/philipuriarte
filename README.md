@@ -17,8 +17,8 @@
 </h1>
 
 <p align="center"> 
-  A 3rd-year Computer Science Student at De La Salle University - Dasmariñas <br>
-  and I aspire to become a Game/Application Developer
+  A Computer Science graduate from De La Salle University - Dasmariñas, with a focused <br>
+  aspiration to pursue a career in software development
 </p>
 
 <p align='center'>
